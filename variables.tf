@@ -1,13 +1,9 @@
 variable "project_name" {
     type = string
-    default = "roboshop"
-  
 }
 
 variable "environment_name" {
     type = string
-    default = "dev"
-  
 }
 
 variable "sg_name" {
